@@ -1,30 +1,32 @@
 ---
-name: DataONE
+name: DataOne
 x-slug: dataone
-description: Data Observation Network for Earth (DataONE) is the foundation of new
-  innovative environmental science through a distributed framework and sustainable
-  cyberinfrastructure that meets the needs of science and society for open, persistent,
-  robust, and sec...
-image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1002-dataone.jpg
+description: 'VIN decoding, automotive database and software products to power your
+  portals and business solutions - CRM, IVM, Web, & Mobile. '
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1003-dataone.jpg
 x-kinRank: "7"
-x-alexaRank: "381119"
-tags: DataONE
+x-alexaRank: "1194847"
+tags: DataOne
 created: "2018-05-23"
 modified: "2018-05-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/dataone/master/_listings/dataone/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
-- type: x-website
-  url: https://www.dataone.org/
+- type: x-blog
+  url: http://vin.dataonesoftware.com/vin_basics_blog
 - type: x-blog-rss
-  url: https://www.dataone.org/dataone-news.xml
+  url: http://vin.dataonesoftware.com/vin_basics_blog/rss.xml
 - type: x-developer
-  url: http://jenkins-1.dataone.org/documentation/unstable/API-Documentation-development/apis/index.html
-- type: x-github
-  url: https://github.com/DataOne
+  url: http://www.dataonesoftware.com/apis-web-services
+- type: x-email
+  url: sales@dataonesoftware.com
+- type: x-email
+  url: support@dataonesoftware.com
 - type: x-twitter
-  url: https://twitter.com/Dataoneorg
+  url: https://twitter.com/DataOneSoftware
+- type: x-website
+  url: http://www.dataonesoftware.com/
 include: []
 maintainers:
 - FN: Kin Lane
